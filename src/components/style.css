@@ -1,0 +1,49 @@
+.logo{
+    padding: 6px;
+}
+#nav-item{
+    margin-left: 70px;
+    margin-right: 0px;
+    font-size:155%;
+}
+#nav-items{
+    margin-left: 45px;
+    margin-right: 0px;
+    font-size: 155%;
+}
+#nav-itemss{
+    margin-left: 370px;
+    margin-right: 0px;
+    font-size: 155%;
+}
+
+
+footer{
+    color: #fff;
+    font-size:95%;
+    line-height: 20px;
+    width:100%;
+    background: linear-gradient(to left,#262930,#1a5a6d);
+    margin-top: 95px;
+    height:200px;
+    font-family: 'PT Serif', serif;
+
+}
+footer h4{
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
+}
+footer li{
+    padding: 5px;
+    color: rgb(145, 140, 140);
+}
+footer a{
+    text-decoration: none;
+    color: rgb(236, 236, 240);
+    font-weight: 500;
+}
+footer a:hover{
+    text-decoration: none;
+    color: rgb(13, 13, 17);
+    font-weight: 700;
+}
