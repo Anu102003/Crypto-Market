@@ -1,0 +1,155 @@
+.link{
+    text-decoration: none;
+    color: rgb(252, 252, 252);
+}.link:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.hero-area{
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-image:url("./Emergent+neural+networks.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero-area img{
+    height:450px;
+
+}
+body{
+    font-family: 'PT Serif', serif;
+
+}
+.block{
+    margin-top: 150px;
+    margin-left: -10px;
+}
+.block p{
+    padding-top: 30px;
+    color: #fff;
+    font-weight: 500;
+}
+.block h2{
+   padding-top: 55px;
+   color:#fff
+}
+.list-inline-item{
+    background-color: rgba(123, 139, 139, 0.589);
+    border-radius:7px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.list-inline-item:hover{
+    background-color: rgba(123, 139, 139, 0.842);
+    color: #fff;
+}
+.services {
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.service-block{
+    border: 1px solid rgba(128, 128, 128, 0.192);
+    border-radius: 5px;
+    margin-bottom: 25px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 1px 5px 1px;
+     text-align: center;
+ padding-bottom: 40px;
+}
+.service-block{
+    padding: 35px 20px;
+}
+.service-block h4{
+    margin-top: 20px;
+}
+.service-block p{
+    margin-top: 20px;
+    text-align: justify;
+}
+.row{
+    width: 100%;
+}
+.col{
+    background-color:aliceblue;
+    padding: 10px;
+    border-radius: 90px;
+}
+.border hr{
+    border: 3px solid rgb(0, 163, 163);
+    width:100px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.col h6{
+    padding-top: 10px;
+}
+#roww{
+    padding-bottom: 50px;
+}
+.col h2{
+    padding-top:5px;
+}
+.service-item{
+    height: 300px;
+    padding-top: 50px;
+}
+.count{
+    font-weight: 900;
+    font-size: 700%;
+    color:rgba(191, 199, 206, 0.637)
+}
+.service-item h4{
+    padding-bottom: 10px;
+}
+.service-item p{
+    padding-bottom: 10px;
+}
+.service-2{
+    padding-bottom: 100px;
+}
+.blog article{
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.post-thumb{
+    margin-left: 75px;
+}
+.post-title{
+    padding-top: 20px;
+    text-align: center;
+}
+.post-content{
+    text-align: justify;
+    padding-top: 10px;
+}
+footer{
+    color: #fff;
+    font-size:95%;
+    line-height: 20px;
+    width:100%;
+    background: linear-gradient(to left,#262930,#1a5a6d);
+    margin-top: 95px;
+    height:max-content
+}
+footer h4{
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
+}
+footer li{
+    padding: 5px;
+    color: rgb(145, 140, 140);
+}
+footer a{
+    text-decoration: none;
+    color: rgb(236, 236, 240);
+    font-weight: 500;
+}
+.btn{
+    font-weight: 500;
+    color: #2c2727;
+}
+.btn:hover{
+    background-color: rgba(0, 0, 0, 0.808);
+    color: #fff;
+}
