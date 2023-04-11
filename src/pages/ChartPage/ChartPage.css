@@ -1,0 +1,52 @@
+.pie{
+   padding: 10px;
+}
+.chart{
+   display: flex;
+  flex-direction: row;
+}
+
+.flex-container {
+   display: flex;
+   flex-direction: row;
+   font-size: 30px;
+   text-align: center;
+   padding: 10px 10px;
+   margin: 20px 30px;
+ }
+
+ .flexx {
+  flex: 50%;
+  padding: 0px;
+}
+.flexxx {
+  flex: 40%;
+  margin-left: 0px;
+}
+
+ 
+ /* Responsive layout - makes a one column-layout instead of two-column layout */
+ @media (max-width: 800px) {
+   .flex-container {
+     flex-direction: column;
+   }
+ }
+ .top td{
+  width: 100px;
+  padding: 10px;
+  padding: 15px 10px;
+  border:1px solid rgba(128, 128, 128, 0.527);
+  border-radius: 55px;
+ }
+ .main h2{
+  padding: 30px 10px;
+  text-align: center;
+ }
+ .top table{
+text-align: center;
+width: 700px;
+ }
+ .tabl{
+  margin: 80px 25%; 
+  font-size: large;
+ }
